@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Information Technology Engineer from Hung Yen University of Technology and Education. Currently, I serve as an NLP Researcher and Engineer at AI Academy Vietnam, while also working remotely for Alpha Lab. My primary focus is on Natural Language Processing (NLP)—specifically for the Vietnamese language—and the development of advanced AI architectures.
+I am an Information Technology Engineer from Hung Yen University of Technology and Education. Currently, I serve as an NLP Researcher and Engineer at AI Academy Vietnam, while also working remotely for Alpha Lab. My primary focus is on Natural Language Processing (NLP)-specifically for the Vietnamese language-and the development of advanced AI architectures.
 
 Research Interests & Key Skills
 ====
