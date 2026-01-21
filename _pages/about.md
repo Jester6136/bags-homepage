@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the Hung Yen University of Technology and Education and a member of several research collaborations in Natural Language Processing and Applied Artificial Intelligence. My research focuses broadly on natural language processing, machine learning, and intelligent information extraction. See below for more specific research interests and application domains. If you are unable to locate any of my publications, please feel free to contact me. I am happy to share them.
+I am an Information Technology Engineer from Hung Yen University of Technology and Education. Currently, I serve as an NLP Researcher and Engineer at AI Academy Vietnam, while also working remotely for Alpha Lab. My primary focus is on Natural Language Processing (NLP)—specifically for the Vietnamese language—and the development of advanced AI architectures.
 
-Research Interests
+<!-- Research Interests
 ====
 Natural Language Processing (NLP)  
 Empathetic Artificial Intelligence (Empathetic AI)  
@@ -20,4 +20,10 @@ Research Application Areas of Interest
 ====
 Law and Judicial Systems  
 Business and Enterprise Analytics  
-Education and Academic Knowledge Systems  
+Education and Academic Knowledge Systems   -->
+
+Research Interests & Key Skills
+====
+Natural Language Processing (NLP): Specialization in Vietnamese language processing.  
+Advanced Models: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Multimodal Models.  
+Operations: MLOps (Machine Learning Operations) and system deployment.  
