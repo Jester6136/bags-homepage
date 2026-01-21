@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "vi-VI"
-title                    : "Minh-Tien Nguyen"
+title                    : "Son-Ba Giang"
 title_separator          : "-"
-name                     : &name "Minh-Tien Nguyen"
+name                     : &name "Son-Ba Giang"
 description              : &description ""
-url                      : https://tiennutehy.github.io/tiennm-homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bags.github.io/bags-homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tiennm/tiennm.github.io"
+repository               : "bags/bags.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minh-Tien Nguyen, Associate Professor"
-  avatar           : "TienNM.png"
-  bio              : "Associate Professor, Computer Science & Engineering"
+  name             : "Son-Ba Giang"
+  avatar           : "BAGS.jpg"
+  bio              : "Senior AI Engineer, Artifical Intelligent Academy"
   location         : "Hung Yen, Viet Nam"
-  employer         : "Hung Yen University of <br>Technology and Eucation"
+  employer         : "Artifical Intelligent Academy"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ASd5leYAAAAJ&hl=en"
-  email            : "tiennm@utehy.edu.vn"
+  googlescholar    : "https://scholar.google.com/citations?user=KBibqd0AAAAJ&hl=en"
+  email            : "bags@aiacademy.edu.vn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tiennm"
+  github           : "bags"
   google_plus      :
   keybase          :
   instagram        :

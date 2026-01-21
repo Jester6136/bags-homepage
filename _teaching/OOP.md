@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Object-oriented Programming"
 collection: teaching
 type: "Undergraduate course"
@@ -8,4 +8,4 @@ date: 2011-01-01
 location: "Hung Yen, Vietnam"
 ---
 
-(2011-2015; 2018-2022). This course provides knowledge of OOP principles using the C# language. Topics include building classes for data encapsulation, interfaces, abstract classes, and inheritance.
+(2011-2015; 2018-2022). This course provides knowledge of OOP principles using the C# language. Topics include building classes for data encapsulation, interfaces, abstract classes, and inheritance. -->
